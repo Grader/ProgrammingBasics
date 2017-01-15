@@ -12,3 +12,4 @@ const sumOfSquares = (x, y) => {
 const squareSumOfSquares = (x, y) => {
   return square(sumOfSquares(x, y));
 };
+//END
